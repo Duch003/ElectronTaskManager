@@ -1,0 +1,85 @@
+.bg-green {
+	background-color: green;
+}
+.op-green {
+	background-color: green;
+	opacity: 0.75;
+}
+.light-green {
+	background-color: #00b300;
+}
+.green {
+	color: green;
+}
+
+.bg-red {
+	background-color: red;
+}
+.op-red {
+	background-color: red;
+	opacity: 0.75;
+}
+.light-red {
+	background-color: #ff5656;
+}
+.red {
+	color: red;
+}
+
+.bg-orange {
+	background-color:   #cc7a00;
+}
+.op-orange {
+	background-color: orange;
+	opacity: 0.75;
+}
+.light-orange {
+	background-color:  #f6ab39;
+}
+.orange {
+	color: orange;
+}
+
+.bg-blue {
+	background-color: blue;
+}
+.op-blue {
+	background-color: blue;
+	opacity: 0.75;
+}
+.light-blue {
+	background-color:  #6776ff;
+}
+.blue {
+	color: blue;
+}
+
+.bg-purple {
+	background-color: purple;
+}
+.op-purple {
+	background-color: purple;
+	opacity: 0.75;
+}
+.light-purple {
+	background-color:  #a967ff;
+}
+.purple {
+	color: purple;
+}
+
+.task-hovered {
+	background-color: #c5c5c5;
+}
+.task {
+	background-color: lightgray;
+	opacity: 0.75;
+}
+.light-gray {
+	background-color:  #8d8d8d;
+}
+
+body {
+	background-color: #222;
+	opacity: 0.7;
+}
